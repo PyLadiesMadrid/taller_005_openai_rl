@@ -9,7 +9,8 @@ El taller estará dividido en una primera parte teórica y otra segunda parte pr
 
 
 ## Impartido por:
-* Gema Parreño  [[Github]](https://github.com/SoyGema) | [[Twitter]](https://twitter.com/SoyGema)
+
+* Gema Parreño  [[Github]](https://github.com/SoyGema) [[Twitter]](https://twitter.com/SoyGema)
 
 
 ## Diapositivas:
@@ -23,13 +24,14 @@ En breve tendremos disponibles las diapositivas
 
 
 ## Ejercicios:
+
 En breve tendremos disponible el notebook que usamos en el curso
 
 
 ## Requisitos:
 
 * Tener instalado cmake: https://cmake.org/install/
-* Instalar las librerías contenidas en el fichero [requirements.txt](/requirements.txt). Para ello, lo más fácil es ejecutar el siguiente comando, preferiblemente dentro de un entorno virtual
-```pip install -r requirements.txt```
+* Instalar las librerías contenidas en el fichero [requirements.txt](/requirements.txt). Para ello, lo más fácil es ejecutar ```pip install -r requirements.txt```, preferiblemente dentro de un entorno virtual
+
 
 
