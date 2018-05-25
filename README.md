@@ -34,4 +34,17 @@ En breve tendremos disponible el notebook que usamos en el curso
 * Instalar las librerías contenidas en el fichero [requirements.txt](/requirements.txt). Para ello, lo más fácil es ejecutar ```pip install -r requirements.txt```, preferiblemente dentro de un entorno virtual
 
 
+## Recursos :
+
+* [OpenAI gym](https://gym.openai.com)
+
+* Documentación [Keras](https://keras.io)
+
+* Documentación [Keras-rl](https://keras-rl.readthedocs.io/en/latest/)
+
+* Libro sobre Aprendizaje por Refuerzo Sutton y Barto [Reinforcement Learning : An Introduction](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
+
+* [Curso](https://www.youtube.com/watch?v=2pWv7GOvuf0&t=1s) David Silver
+
+* Ejemplo de [CartPole](https://github.com/SoyGema/OpenAI/blob/master/QLearning/Classic_control/DQNClassicControlAgent%20_%20CartPole_v1.ipynb) con Callbacks de métricas 
 
