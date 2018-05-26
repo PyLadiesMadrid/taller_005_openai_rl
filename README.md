@@ -48,3 +48,4 @@ En breve tendremos disponible el notebook que usamos en el curso
 
 * Ejemplo de [CartPole](https://github.com/SoyGema/OpenAI/blob/master/QLearning/Classic_control/DQNClassicControlAgent%20_%20CartPole_v1.ipynb) con Callbacks de métricas 
 
+* [Slides](https://github.com/SoyGema/taller_005_openai_rl/blob/master/images/Presentación_Taller_Gema_Parreño.pptx)
