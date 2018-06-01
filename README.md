@@ -25,7 +25,7 @@ El taller estará dividido en una primera parte teórica y otra segunda parte pr
 
 ## Ejercicios:
 
-* [Aquí](/Pyladies Taller RL Notebook.ipynb)
+* [Aquí](Pyladies%20Taller%20RL%20Notebook.ipynb)
 
 
 ## Requisitos:
